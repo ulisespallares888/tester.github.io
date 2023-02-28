@@ -1,2 +1,2 @@
 # practica_git
-repository to traineer git
+repository to practice git
