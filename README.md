@@ -1,2 +1,2 @@
 # practica_git
-repository to practice git
+repository for git practices 
